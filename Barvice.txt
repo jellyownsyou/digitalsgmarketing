@@ -1,0 +1,2 @@
+Svetlomodra barva: #00A9ED
+Siva:              #dfdfdf
